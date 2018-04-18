@@ -2,3 +2,4 @@ hogehoge
 hogegenoge
 gitstatus
 asfafg
+diffff
